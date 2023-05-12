@@ -4,3 +4,6 @@
 index:
 - [2020 NuCamp T@b 320s available in Grand Rapids, Michigan](https://youtu.be/SUqALfjJgpU)
 - [Franzose erfindet genialen ausziehbaren einbruchsicheren Wohnwagen. Beauer: XXXL Design Innenraum.](https://youtu.be/WZBISjfCdCs)
+
+# inspire:
+- [Ultimate Stealth Camper Van Tour | Nissan NV200 Self-Converted Build Walkthrough](https://youtu.be/8HL4RQb-ROA)
